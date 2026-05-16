@@ -1,0 +1,12 @@
+{
+  "name": "tradingview-gpt-server",
+  "version": "1.0.0",
+  "description": "TradingView GPT Webhook Server",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
